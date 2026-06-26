@@ -1,4 +1,5 @@
 # selftoken-id-stalk-systems
+# 75 Star'da Sizde
 
 Bu Sistem tamamen kendi SelfTokeniniz ile ve Normal Bot Tokeni ile belirlemiş olduğunuz arkadaşınızın ne zaman discord a girmiş ve ne zaman çıkmış
 Ne zaman Hangi Sesde Bulunmuş Görebiliyorsunuz Tüm verileri Kendi Hesaplarınızdan Çekiyor 
